@@ -1,6 +1,8 @@
 ## NAMASTE 🙏🏽
 
-## I am Deepak Sri Ram Murthy Bolem, a Business Analyst with expertise in translating business requirements into actionable data solutions. My skills encompass the entire data lifecycle, including requirements gathering, market analysis, ETL, database management, and data mining. I leverage these skills to drive informed decision-making and achieve business objectives.
+## I am Deepak Sri Ram Murthy Bolem 
+
+I am a Business Analyst with expertise in translating business requirements into actionable data solutions. My skills encompass the entire data lifecycle, including requirements gathering, market analysis, ETL, database management, and data mining. I leverage these skills to drive informed decision-making and achieve business objectives.
 
 <!--
 **deepakbolem/deepakbolem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
