@@ -8,6 +8,8 @@ Learning: I'm currently focused on learning advanced machine learning, robotics,
 
 Schedule a meeting with me on [calendly](https://calendly.com/deepaksrirammurthybolem).
 
+I am currently looking for work and open to new opportunities.
+
 I love to play the violin and piano.
 
 <!--
