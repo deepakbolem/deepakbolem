@@ -6,7 +6,7 @@ Currently, I am working on a project focused on the application of cutting-edge 
 
 Learning: I'm currently focused on learning advanced machine learning, robotics, and intelligent systems, with a specialization in reinforcement learning.
 
-Schedule a meeting with me on [calendly](https://calendly.com/deepaksrirammurthybolem)
+Schedule a meeting with me on [calendly](https://calendly.com/deepaksrirammurthybolem).
 
 I love to play the violin and piano.
 
