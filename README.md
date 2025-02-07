@@ -1,6 +1,6 @@
 ## NAMASTE 🙏🏽
 
-## I am a Business Analyst with expertise in translating business requirements into actionable data solutions. My skills encompass the entire data lifecycle, including requirements gathering, market analysis, ETL, database management, and data mining. I leverage these skills to drive informed decision-making and achieve business objectives.
+I am a Business Analyst with expertise in translating business requirements into actionable data solutions. My skills encompass the entire data lifecycle, including requirements gathering, market analysis, ETL, database management, and data mining. I leverage these skills to drive informed decision-making and achieve business objectives.
 
 Currently, I am working on a project focused on the application of cutting-edge machine learning algorithms to streamline operations across multiple industries.  This involves developing AI-powered solutions for automating repetitive tasks and optimizing workflows, with applications ranging from predictive analytics in manufacturing to personalized customer experiences in retail.  My work emphasizes the development of robust and scalable AI models that can be adapted to the specific needs of different sectors.
 
