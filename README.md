@@ -12,7 +12,7 @@ I am currently looking for work and open to new opportunities.
 
 I love to play the violin and piano.
 
-Feel Free to Connect with me on [[LinkedIn](https://www.vecteezy.com/png/18930480-linkedin-logo-png-linkedin-icon-transparent-png)](https://www.linkedin.com/in/deepak-bolem/)
+Feel Free to Connect with me on [LinkedIn](https://www.linkedin.com/in/deepak-bolem/)
 
 <!--
 **deepakbolem/deepakbolem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
