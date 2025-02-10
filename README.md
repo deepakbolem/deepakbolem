@@ -14,7 +14,7 @@ I love to play the violin and piano.
 
 
 
-Feel Free to Connect with me on [LinkedIn](https://www.linkedin.com/in/deepak-bolem/)
+Feel Free to Connect with me on [LinkedIn](https://www.linkedin.com/in/deepak-bolem/).
 
 <!--
 **deepakbolem/deepakbolem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
