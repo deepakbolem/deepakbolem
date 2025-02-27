@@ -1,4 +1,4 @@
-## NAMASTE 🙏🏽
+## Hello 👋
 
 I am a Business Analyst with expertise in translating business requirements into actionable data solutions. My skills encompass the entire data lifecycle, including requirements gathering, market analysis, ETL, database management, and data mining. I leverage these skills to drive informed decision-making and achieve business objectives.
 
